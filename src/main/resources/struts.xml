@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE struts PUBLIC
-    "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
-    "http://struts.apache.org/dtds/struts-2.5.dtd">
+<!--
+
+    ======= This file is not being used because conventions are used instead =======
     
-<struts>
-    
-    <package name="struts2" extends="struts-default">
-        <action name="" class="">
-            <result name="">
-                
-            </result>
-        </action>
-    </package>
-    
-</struts>
+    <!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+    <struts>
+
+        <package name="struts2" extends="struts-default">
+            <action name="" class="">
+                <result name="">
+
+                </result>
+            </action>
+        </package>
+
+    </struts>
+
+-->
