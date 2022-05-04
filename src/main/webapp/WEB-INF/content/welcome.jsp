@@ -5,6 +5,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title><s:text name="welcome.title" /></title>
+        <s:head />
     </head>
     <body>
         
@@ -12,6 +13,8 @@
             <s:text name="welcome.title" />
         </h1>
         
+        <s:actionmessage />
+
         <h2>
             <s:text name="welcome.message" />:
         </h2>

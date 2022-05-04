@@ -5,6 +5,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title><s:text name="form.title" /></title>
+        <s:head />
     </head>
     <body>
         
@@ -12,7 +13,9 @@
             <s:text name="form.title" />
         </h1>
         
-            <s:form action="validateUser">
+        <s:actionerror/>
+        
+        <s:form action="validateUser">
             
             <s:textfield key="form.user" name="user" />
             <s:password key="form.password" name="password" />
